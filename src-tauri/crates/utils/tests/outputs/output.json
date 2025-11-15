@@ -1,0 +1,1500 @@
+{
+  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook",
+  "size": "9.20 MB",
+  "subdirs": [
+    {
+      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git",
+      "percent": "26.02%",
+      "size": "2.39 MB",
+      "subdirs": [
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks",
+          "percent": "1.03%",
+          "size": "25.22 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\applypatch-msg.sample",
+              "percent": "1.85%",
+              "size": "478 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\commit-msg.sample",
+              "percent": "3.47%",
+              "size": "896 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\fsmonitor-watchman.sample",
+              "percent": "18.30%",
+              "size": "4.62 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\post-update.sample",
+              "percent": "0.73%",
+              "size": "189 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\pre-applypatch.sample",
+              "percent": "1.64%",
+              "size": "424 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\pre-commit.sample",
+              "percent": "6.38%",
+              "size": "1.61 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\pre-merge-commit.sample",
+              "percent": "1.61%",
+              "size": "416 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\pre-push.sample",
+              "percent": "5.32%",
+              "size": "1.34 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\pre-rebase.sample",
+              "percent": "18.96%",
+              "size": "4.78 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\pre-receive.sample",
+              "percent": "2.11%",
+              "size": "544 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\prepare-commit-msg.sample",
+              "percent": "5.78%",
+              "size": "1.46 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\push-to-checkout.sample",
+              "percent": "10.78%",
+              "size": "2.72 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\sendemail-validate.sample",
+              "percent": "8.94%",
+              "size": "2.25 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\hooks\\update.sample",
+              "percent": "14.13%",
+              "size": "3.56 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\info",
+          "percent": "0.01%",
+          "size": "240 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\info\\exclude",
+              "percent": "100.00%",
+              "size": "240 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs",
+          "percent": "0.06%",
+          "size": "1.49 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs\\refs",
+              "percent": "53.73%",
+              "size": "822 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs\\refs\\heads",
+                  "percent": "63.02%",
+                  "size": "518 B",
+                  "subdirs": [
+                    {
+                      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs\\refs\\heads\\main",
+                      "percent": "100.00%",
+                      "size": "518 B",
+                      "subdirs": []
+                    }
+                  ]
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs\\refs\\remotes",
+                  "percent": "36.98%",
+                  "size": "304 B",
+                  "subdirs": [
+                    {
+                      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs\\refs\\remotes\\origin",
+                      "percent": "100.00%",
+                      "size": "304 B",
+                      "subdirs": [
+                        {
+                          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs\\refs\\remotes\\origin\\main",
+                          "percent": "100.00%",
+                          "size": "304 B",
+                          "subdirs": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\logs\\HEAD",
+              "percent": "46.27%",
+              "size": "708 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects",
+          "percent": "98.78%",
+          "size": "2.36 MB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\06",
+              "percent": "0.00%",
+              "size": "90 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\06\\6feffdb9817b8d48b922873f6006fe5b7ebc78",
+                  "percent": "100.00%",
+                  "size": "90 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\12",
+              "percent": "0.02%",
+              "size": "454 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\12\\1bdc2421b242cfb4d899a0e5aa60927c167804",
+                  "percent": "100.00%",
+                  "size": "454 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\13",
+              "percent": "0.01%",
+              "size": "361 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\13\\032fb5bc9992f29ef4802e1ad95bade350cb8f",
+                  "percent": "36.29%",
+                  "size": "131 B",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\13\\abfaac2fbe63f36a1cd1e46c33dc4a5ce1b025",
+                  "percent": "16.07%",
+                  "size": "58 B",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\13\\b0b7e467c67f270919282c6f094bce826b696f",
+                  "percent": "47.65%",
+                  "size": "172 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\1a",
+              "percent": "0.00%",
+              "size": "22 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\1a\\ba6b3957beb5419f55253a0e06b10ef0cda70e",
+                  "percent": "100.00%",
+                  "size": "22 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\25",
+              "percent": "24.54%",
+              "size": "593.89 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\25\\a0523e87f3bde9b672f475dcf4267dbd018a98",
+                  "percent": "100.00%",
+                  "size": "593.89 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\29",
+              "percent": "0.00%",
+              "size": "22 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\29\\20a8980e72c12a08ba09641d5b58101759c17c",
+                  "percent": "100.00%",
+                  "size": "22 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\32",
+              "percent": "0.01%",
+              "size": "201 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\32\\808c009e14f80941b32f9bcc348d229d946676",
+                  "percent": "100.00%",
+                  "size": "201 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\3e",
+              "percent": "0.00%",
+              "size": "31 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\3e\\99bf7b0de4207580483ab55c5eca35ab87beed",
+                  "percent": "100.00%",
+                  "size": "31 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\51",
+              "percent": "0.00%",
+              "size": "53 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\51\\d5114d919cf074699702692a4f1b21a3022440",
+                  "percent": "100.00%",
+                  "size": "53 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\64",
+              "percent": "0.00%",
+              "size": "68 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\64\\46d3f14b4ad4200c96584f5a56567a2b823bd2",
+                  "percent": "100.00%",
+                  "size": "68 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\67",
+              "percent": "0.00%",
+              "size": "51 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\67\\3da1032c499d46ea7d928141b3eb3f2f020257",
+                  "percent": "100.00%",
+                  "size": "51 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\6a",
+              "percent": "24.86%",
+              "size": "601.64 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\6a\\d3ef78f459548f38372239159edd63c2cdee24",
+                  "percent": "100.00%",
+                  "size": "601.64 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\6c",
+              "percent": "0.01%",
+              "size": "309 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\6c\\35d1c191bdfe0fd2043b426bc4bec7b54fb20e",
+                  "percent": "100.00%",
+                  "size": "309 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\6e",
+              "percent": "0.00%",
+              "size": "53 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\6e\\92d4b715cf031b918459d064e106af1fc5d7a3",
+                  "percent": "100.00%",
+                  "size": "53 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\71",
+              "percent": "0.00%",
+              "size": "52 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\71\\ca952b48a1cc9df086945b0cf45025e1cbb0aa",
+                  "percent": "100.00%",
+                  "size": "52 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\72",
+              "percent": "16.72%",
+              "size": "404.63 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\72\\d50f6c80c12811f0a2df36ed2e06402bef04ef",
+                  "percent": "100.00%",
+                  "size": "404.63 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\74",
+              "percent": "0.01%",
+              "size": "316 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\74\\ea2a32c2501f4def68ee18754ad77b253eb8e9",
+                  "percent": "100.00%",
+                  "size": "316 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\75",
+              "percent": "0.00%",
+              "size": "20 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\75\\85238efedfc33acdd9494b0269951aaf3909ec",
+                  "percent": "100.00%",
+                  "size": "20 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\77",
+              "percent": "0.01%",
+              "size": "337 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\77\\f0f180551099d7cf17dffdd1c5ddcc4ff4b999",
+                  "percent": "100.00%",
+                  "size": "337 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\78",
+              "percent": "25.72%",
+              "size": "622.31 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\78\\8f3c6fa30e29cd19ac3ed659b957461076b3ca",
+                  "percent": "100.00%",
+                  "size": "622.31 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\79",
+              "percent": "0.01%",
+              "size": "178 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\79\\a2c76b3dc103574f950427ecb3c3d5617c1abe",
+                  "percent": "100.00%",
+                  "size": "178 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\90",
+              "percent": "0.00%",
+              "size": "29 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\90\\6b22f3503a2adbbe255997399e2ce84ae03118",
+                  "percent": "100.00%",
+                  "size": "29 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\91",
+              "percent": "0.00%",
+              "size": "86 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\91\\a5a39ba154d012c2bf3149907822f994ca913d",
+                  "percent": "100.00%",
+                  "size": "86 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\93",
+              "percent": "7.98%",
+              "size": "193.20 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\93\\608beb6c7a9cbad9d1e2d3c434f70105902151",
+                  "percent": "100.00%",
+                  "size": "193.20 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\a6",
+              "percent": "0.01%",
+              "size": "360 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\a6\\efdce51deb3dbdd160db552701bab9798ce892",
+                  "percent": "100.00%",
+                  "size": "360 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\a9",
+              "percent": "0.00%",
+              "size": "91 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\a9\\c6935b0550479b30f91cc19f983e0e77712d1f",
+                  "percent": "100.00%",
+                  "size": "91 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\b2",
+              "percent": "0.00%",
+              "size": "118 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\b2\\8f4da520da75873042d376d1721ae9a6d1f467",
+                  "percent": "100.00%",
+                  "size": "118 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\c2",
+              "percent": "0.00%",
+              "size": "81 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\c2\\1342b32cef6bc2cfa054c6b7294087c165930a",
+                  "percent": "34.57%",
+                  "size": "28 B",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\c2\\6f5a4d325a1628751fa717c553d0ed534d180c",
+                  "percent": "65.43%",
+                  "size": "53 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\c7",
+              "percent": "0.00%",
+              "size": "33 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\c7\\84ab1628df8b1a8cccea07e047f7f521bbffd8",
+                  "percent": "100.00%",
+                  "size": "33 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\dc",
+              "percent": "0.00%",
+              "size": "87 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\dc\\630a6b760c0d60dcd659a9913b360bbfe6739a",
+                  "percent": "100.00%",
+                  "size": "87 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\e1",
+              "percent": "0.00%",
+              "size": "31 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\e1\\0b99d01382d9c6527dfa7a9cf1b0c81f3d5307",
+                  "percent": "100.00%",
+                  "size": "31 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\e2",
+              "percent": "0.01%",
+              "size": "166 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\e2\\316315f725e93d5219c82cedd49ab0c50de5f1",
+                  "percent": "100.00%",
+                  "size": "166 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\ea",
+              "percent": "0.00%",
+              "size": "35 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\ea\\2e3ef27df7dfa5c5bd0dc96edd587d2a64d579",
+                  "percent": "100.00%",
+                  "size": "35 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\f7",
+              "percent": "0.00%",
+              "size": "59 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\f7\\64fd390519c89eba9bcdc28e3cf93667896a0b",
+                  "percent": "100.00%",
+                  "size": "59 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\f8",
+              "percent": "0.02%",
+              "size": "459 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\f8\\47f6d8ed2427f54bb80b36879f7d33a4621e0b",
+                  "percent": "11.98%",
+                  "size": "55 B",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\f8\\eca09a0d6c30024e053dae2b88de401e2a7360",
+                  "percent": "88.02%",
+                  "size": "404 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\fa",
+              "percent": "0.00%",
+              "size": "70 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\fa\\3a24d1202524f91b2c2b2f2b50f555b17097e2",
+                  "percent": "100.00%",
+                  "size": "70 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\info",
+              "percent": "0.00%",
+              "size": "0 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\objects\\pack",
+              "percent": "0.00%",
+              "size": "0 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\refs",
+          "percent": "0.00%",
+          "size": "82 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\refs\\heads",
+              "percent": "50.00%",
+              "size": "41 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\refs\\heads\\main",
+                  "percent": "100.00%",
+                  "size": "41 B",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\refs\\remotes",
+              "percent": "50.00%",
+              "size": "41 B",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\refs\\remotes\\origin",
+                  "percent": "100.00%",
+                  "size": "41 B",
+                  "subdirs": [
+                    {
+                      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\refs\\remotes\\origin\\main",
+                      "percent": "100.00%",
+                      "size": "41 B",
+                      "subdirs": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\refs\\tags",
+              "percent": "0.00%",
+              "size": "0 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\COMMIT_EDITMSG",
+          "percent": "0.00%",
+          "size": "15 B",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\config",
+          "percent": "0.01%",
+          "size": "318 B",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\description",
+          "percent": "0.00%",
+          "size": "73 B",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\HEAD",
+          "percent": "0.00%",
+          "size": "21 B",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.git\\index",
+          "percent": "0.10%",
+          "size": "2.52 KB",
+          "subdirs": []
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.github",
+      "percent": "0.01%",
+      "size": "806 B",
+      "subdirs": [
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.github\\workflows",
+          "percent": "100.00%",
+          "size": "806 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.github\\workflows\\Publish.yml",
+              "percent": "100.00%",
+              "size": "806 B",
+              "subdirs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book",
+      "percent": "48.26%",
+      "size": "4.44 MB",
+      "subdirs": [
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets",
+          "percent": "53.19%",
+          "size": "2.36 MB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Balanced",
+              "percent": "24.77%",
+              "size": "598.79 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Balanced\\Rajma-Spices.jpg",
+                  "percent": "67.67%",
+                  "size": "405.17 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Balanced\\Rajma.jpg",
+                  "percent": "32.33%",
+                  "size": "193.61 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Desserts",
+              "percent": "24.58%",
+              "size": "594.14 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Desserts\\Hawa.jpg",
+                  "percent": "100.00%",
+                  "size": "594.14 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Grains",
+              "percent": "0.00%",
+              "size": "0 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Meats",
+              "percent": "0.00%",
+              "size": "0 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Vegetarian",
+              "percent": "50.65%",
+              "size": "1.20 MB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Vegetarian\\Bindi.jpg",
+                  "percent": "50.84%",
+                  "size": "622.58 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Assets\\Vegetarian\\Butter-Paneer.jpg",
+                  "percent": "49.16%",
+                  "size": "601.94 KB",
+                  "subdirs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Balanced",
+          "percent": "0.28%",
+          "size": "12.66 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Balanced\\Rajma.html",
+              "percent": "100.00%",
+              "size": "12.66 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Concepts",
+          "percent": "1.24%",
+          "size": "56.39 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Concepts\\Knife-Sharpening.html",
+              "percent": "20.03%",
+              "size": "11.29 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Concepts\\Measurements.html",
+              "percent": "20.00%",
+              "size": "11.28 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Concepts\\Nutrition.html",
+              "percent": "19.96%",
+              "size": "11.26 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Concepts\\Rubs.html",
+              "percent": "19.96%",
+              "size": "11.25 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Concepts\\Spice-Handling.html",
+              "percent": "20.05%",
+              "size": "11.31 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\css",
+          "percent": "0.70%",
+          "size": "31.82 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\css\\chrome.css",
+              "percent": "50.69%",
+              "size": "16.13 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\css\\general.css",
+              "percent": "20.17%",
+              "size": "6.42 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\css\\print.css",
+              "percent": "2.03%",
+              "size": "661 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\css\\variables.css",
+              "percent": "27.12%",
+              "size": "8.63 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Desserts",
+          "percent": "0.25%",
+          "size": "11.52 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Desserts\\Hawa.html",
+              "percent": "100.00%",
+              "size": "11.52 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome",
+          "percent": "24.66%",
+          "size": "1.09 MB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\css",
+              "percent": "2.70%",
+              "size": "30.27 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\css\\font-awesome.css",
+                  "percent": "100.00%",
+                  "size": "30.27 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\fonts",
+              "percent": "97.30%",
+              "size": "1.06 MB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\fonts\\fontawesome-webfont.eot",
+                  "percent": "14.85%",
+                  "size": "161.86 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\fonts\\fontawesome-webfont.svg",
+                  "percent": "39.80%",
+                  "size": "433.96 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\fonts\\fontawesome-webfont.ttf",
+                  "percent": "14.83%",
+                  "size": "161.67 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\fonts\\fontawesome-webfont.woff",
+                  "percent": "8.78%",
+                  "size": "95.73 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\fonts\\fontawesome-webfont.woff2",
+                  "percent": "6.91%",
+                  "size": "75.35 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\FontAwesome\\fonts\\FontAwesome.ttf",
+                  "percent": "14.83%",
+                  "size": "161.67 KB",
+                  "subdirs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts",
+          "percent": "10.88%",
+          "size": "494.39 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\fonts.css",
+              "percent": "0.73%",
+              "size": "3.63 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\OPEN-SANS-LICENSE.txt",
+              "percent": "2.24%",
+              "size": "11.09 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-300.woff2",
+              "percent": "8.76%",
+              "size": "43.31 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-300italic.woff2",
+              "percent": "8.03%",
+              "size": "39.70 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-600.woff2",
+              "percent": "8.88%",
+              "size": "43.88 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-600italic.woff2",
+              "percent": "8.32%",
+              "size": "41.13 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-700.woff2",
+              "percent": "8.89%",
+              "size": "43.93 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-700italic.woff2",
+              "percent": "8.06%",
+              "size": "39.84 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-800.woff2",
+              "percent": "8.80%",
+              "size": "43.49 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-800italic.woff2",
+              "percent": "8.06%",
+              "size": "39.86 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-italic.woff2",
+              "percent": "8.11%",
+              "size": "40.11 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\open-sans-v17-all-charsets-regular.woff2",
+              "percent": "8.54%",
+              "size": "42.22 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\SOURCE-CODE-PRO-LICENSE.txt",
+              "percent": "0.89%",
+              "size": "4.42 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\fonts\\source-code-pro-v11-all-charsets-500.woff2",
+              "percent": "11.68%",
+              "size": "57.75 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Grains",
+          "percent": "0.74%",
+          "size": "33.81 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Grains\\Basic_Jeera_Rice.html",
+              "percent": "33.44%",
+              "size": "11.30 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Grains\\Naan_Bread.html",
+              "percent": "33.27%",
+              "size": "11.25 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Grains\\Roti.html",
+              "percent": "33.29%",
+              "size": "11.26 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Meats",
+          "percent": "0.27%",
+          "size": "12.11 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Meats\\Korean_Beef.html",
+              "percent": "100.00%",
+              "size": "12.11 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Vegetarian-Meals",
+          "percent": "0.50%",
+          "size": "22.71 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Vegetarian-Meals\\Bindi.html",
+              "percent": "49.91%",
+              "size": "11.34 KB",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Vegetarian-Meals\\Butter-Paneer.html",
+              "percent": "50.09%",
+              "size": "11.38 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\.nojekyll",
+          "percent": "0.00%",
+          "size": "72 B",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\404.html",
+          "percent": "0.23%",
+          "size": "10.28 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\ayu-highlight.css",
+          "percent": "0.02%",
+          "size": "929 B",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\book.js",
+          "percent": "0.64%",
+          "size": "29.03 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\clipboard.min.js",
+          "percent": "0.23%",
+          "size": "10.50 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\elasticlunr.min.js",
+          "percent": "0.39%",
+          "size": "17.63 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\favicon.png",
+          "percent": "0.12%",
+          "size": "5.55 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\favicon.svg",
+          "percent": "0.04%",
+          "size": "1.79 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\highlight.css",
+          "percent": "0.03%",
+          "size": "1.18 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\highlight.js",
+          "percent": "2.96%",
+          "size": "134.31 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\index.html",
+          "percent": "0.24%",
+          "size": "10.68 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\Introduction.html",
+          "percent": "0.24%",
+          "size": "10.68 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\mark.min.js",
+          "percent": "0.37%",
+          "size": "16.91 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\print.html",
+          "percent": "0.34%",
+          "size": "15.47 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\searcher.js",
+          "percent": "0.43%",
+          "size": "19.53 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\searchindex.js",
+          "percent": "0.82%",
+          "size": "37.08 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\toc.html",
+          "percent": "0.07%",
+          "size": "3.24 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\toc.js",
+          "percent": "0.10%",
+          "size": "4.72 KB",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book\\tomorrow-night.css",
+          "percent": "0.04%",
+          "size": "1.65 KB",
+          "subdirs": []
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src",
+      "percent": "25.71%",
+      "size": "2.36 MB",
+      "subdirs": [
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets",
+          "percent": "99.87%",
+          "size": "2.36 MB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Balanced",
+              "percent": "24.77%",
+              "size": "598.79 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Balanced\\Rajma-Spices.jpg",
+                  "percent": "67.67%",
+                  "size": "405.17 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Balanced\\Rajma.jpg",
+                  "percent": "32.33%",
+                  "size": "193.61 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Desserts",
+              "percent": "24.58%",
+              "size": "594.14 KB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Desserts\\Hawa.jpg",
+                  "percent": "100.00%",
+                  "size": "594.14 KB",
+                  "subdirs": []
+                }
+              ]
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Grains",
+              "percent": "0.00%",
+              "size": "0 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Meats",
+              "percent": "0.00%",
+              "size": "0 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Vegetarian",
+              "percent": "50.65%",
+              "size": "1.20 MB",
+              "subdirs": [
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Vegetarian\\Bindi.jpg",
+                  "percent": "50.84%",
+                  "size": "622.58 KB",
+                  "subdirs": []
+                },
+                {
+                  "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Assets\\Vegetarian\\Butter-Paneer.jpg",
+                  "percent": "49.16%",
+                  "size": "601.94 KB",
+                  "subdirs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Balanced",
+          "percent": "0.04%",
+          "size": "1.05 KB",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Balanced\\Rajma.md",
+              "percent": "100.00%",
+              "size": "1.05 KB",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Concepts",
+          "percent": "0.00%",
+          "size": "70 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Concepts\\Knife-Sharpening.md",
+              "percent": "27.14%",
+              "size": "19 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Concepts\\Measurements.md",
+              "percent": "21.43%",
+              "size": "15 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Concepts\\Nutrition.md",
+              "percent": "17.14%",
+              "size": "12 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Concepts\\Rubs.md",
+              "percent": "10.00%",
+              "size": "7 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Concepts\\Spice-Handling.md",
+              "percent": "24.29%",
+              "size": "17 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Desserts",
+          "percent": "0.02%",
+          "size": "572 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Desserts\\Hawa.md",
+              "percent": "100.00%",
+              "size": "572 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Grains",
+          "percent": "0.00%",
+          "size": "39 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Grains\\Basic_Jeera_Rice.md",
+              "percent": "48.72%",
+              "size": "19 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Grains\\Naan_Bread.md",
+              "percent": "33.33%",
+              "size": "13 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Grains\\Roti.md",
+              "percent": "17.95%",
+              "size": "7 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Meats",
+          "percent": "0.02%",
+          "size": "535 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Meats\\Korean_Beef.md",
+              "percent": "100.00%",
+              "size": "535 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Vegetarian-Meals",
+          "percent": "0.00%",
+          "size": "122 B",
+          "subdirs": [
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Vegetarian-Meals\\Bindi.md",
+              "percent": "40.16%",
+              "size": "49 B",
+              "subdirs": []
+            },
+            {
+              "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Vegetarian-Meals\\Butter-Paneer.md",
+              "percent": "59.84%",
+              "size": "73 B",
+              "subdirs": []
+            }
+          ]
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\Introduction.md",
+          "percent": "0.00%",
+          "size": "15 B",
+          "subdirs": []
+        },
+        {
+          "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\src\\SUMMARY.md",
+          "percent": "0.03%",
+          "size": "685 B",
+          "subdirs": []
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\.gitignore",
+      "percent": "0.00%",
+      "size": "5 B",
+      "subdirs": []
+    },
+    {
+      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\book.toml",
+      "percent": "0.00%",
+      "size": "219 B",
+      "subdirs": []
+    },
+    {
+      "path": "C:\\Users\\James\\Documents\\The-International-College-Cookbook\\README.md",
+      "percent": "0.00%",
+      "size": "70 B",
+      "subdirs": []
+    }
+  ]
+}
