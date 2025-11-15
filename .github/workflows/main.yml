@@ -14,8 +14,6 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - platform: 'ubuntu-latest'
-            args: '--target x86_64-unknown-linux-gnu'
           - platform: 'windows-11'
             args: ''
           - platform: 'windows-11-arm'
